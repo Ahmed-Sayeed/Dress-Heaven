@@ -1,0 +1,10 @@
+.achive-container{
+    background-image: url('../../images/achivement-thumb.PNG');
+    background-size: cover;
+    color: white;
+    height: 60vh;
+}
+.achive-row{
+    height: 60vh;
+    align-items: center;
+}

@@ -1,0 +1,11 @@
+.collection:hover{
+    opacity: 0.7;
+    transition: 0.3s;
+}
+.section-title {
+    display: inline;
+    letter-spacing: 4.5px;
+    padding: 8px;
+    border-radius: 5px;
+}
+

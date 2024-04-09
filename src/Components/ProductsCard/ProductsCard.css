@@ -1,0 +1,8 @@
+.card{
+    transition: 0.4s;
+}
+.card:hover{
+    background-color: black;
+    color: white;
+    transform: calc(1.2);
+}

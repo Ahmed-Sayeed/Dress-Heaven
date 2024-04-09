@@ -1,0 +1,14 @@
+.not-found-container{
+    background-color: rgb(218 218 218 / 55%);
+}
+
+img{
+    width: 35%;
+}
+
+button.back-to-home-btn {
+    padding: 10px 30px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+}

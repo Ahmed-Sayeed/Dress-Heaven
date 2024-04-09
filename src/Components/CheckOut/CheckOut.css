@@ -1,0 +1,22 @@
+.checkout-container{
+    background-color: #f8fcff;
+    padding: 70px 0px;
+}
+
+.checkOut-field,
+.order-btn {
+    margin-top: 20px;
+    width: 85%;
+    padding: 8px;
+}
+
+table{
+    width: 100%;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.last-item{
+    border-bottom: 1px solid;
+    margin-bottom: 10px;
+}

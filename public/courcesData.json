@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "name": "For Working Women",
+      "ducation1": "Monday-Friday 1.00-2.00 pm",
+      "ducation2": "Saturday 8.00-12.00 pm",
+      "ducation3": "Sunday Closed",
+      "detailInfo": "This cource is designed keeping on mined of your body shape. This includes activities like running, skipping rope, and high-intensity interval training (HIIT) to improve overall cardiovascular fitness. Strength and Power Training: Boxers focus on building functional strength and explosive power to deliver powerful punches. This involves weightlifting exercises, plyometrics, and bodyweight exercises such as push-ups, pull-ups, squats, and core exercises.",
+      "img": "https://maruthi.wpengine.com/wp-content/uploads/2017/12/img38.jpg",
+      "price": "$ 25.00",
+      "info": "Basic classes on using weights and gradually building up over 4weeks."
+    },
+    {
+      "id": 2,
+      "name": "For Homemakers",
+      "ducation1": "Monday-Friday 1.00-2.00 pm",
+      "ducation2": "Saturday 8.00-12.00 pm",
+      "ducation3": "Sunday Closed",
+      "detailInfo": "This cource is designed keeping on mined of your body shape. This includes activities like running, skipping rope, and high-intensity interval training (HIIT) to improve overall cardiovascular fitness. Strength and Power Training: Boxers focus on building functional strength and explosive power to deliver powerful punches. This involves weightlifting exercises, plyometrics, and bodyweight exercises such as push-ups, pull-ups, squats, and core exercises.",
+      "img": "https://maruthi.wpengine.com/wp-content/uploads/2018/01/pack2.jpg",
+      "price": "$ 25.00",
+      "info": "Welights introduction and basic fitness classes for 4weeks."
+    },
+    {
+      "id": 3,
+      "name": "For Bachelor",
+      "ducation1": "Monday-Friday 1.00-2.00 pm",
+      "ducation2": "Saturday 8.00-12.00 pm",
+      "ducation3": "Sunday Closed",
+      "detailInfo": "This cource is designed keeping on mined of your body shape. This includes activities like running, skipping rope, and high-intensity interval training (HIIT) to improve overall cardiovascular fitness. Strength and Power Training: Boxers focus on building functional strength and explosive power to deliver powerful punches. This involves weightlifting exercises, plyometrics, and bodyweight exercises such as push-ups, pull-ups, squats, and core exercises.",
+      "img": "https://maruthi.wpengine.com/wp-content/uploads/2018/01/pack3.jpg",
+      "price": "$ 50.00",
+      "info": "Basic Packae on a regular membership basis monthly."
+    },
+    {
+      "id": 4,
+      "name": "For Women",
+      "ducation1": "Monday-Friday 1.00-2.00 pm",
+      "ducation2": "Saturday 8.00-12.00 pm",
+      "ducation3": "Sunday Closed",
+      "detailInfo": "This cource is designed keeping on mined of your body shape. This includes activities like running, skipping rope, and high-intensity interval training (HIIT) to improve overall cardiovascular fitness. Strength and Power Training: Boxers focus on building functional strength and explosive power to deliver powerful punches. This involves weightlifting exercises, plyometrics, and bodyweight exercises such as push-ups, pull-ups, squats, and core exercises.",
+      "img": "https://maruthi.wpengine.com/wp-content/uploads/2018/01/pack4.jpg",
+      "price": "$ 50.00",
+      "info": "Eligble to make use of the Gym and Pool facilities."
+    },
+    {
+      "id": 5,
+      "name": "For Working Men",
+      "ducation1": "Monday-Friday 1.00-2.00 pm",
+      "ducation2": "Saturday 8.00-12.00 pm",
+      "ducation3": "Sunday Closed",
+      "detailInfo": "This cource is designed keeping on mined of your body shape. This includes activities like running, skipping rope, and high-intensity interval training (HIIT) to improve overall cardiovascular fitness. Strength and Power Training: Boxers focus on building functional strength and explosive power to deliver powerful punches. This involves weightlifting exercises, plyometrics, and bodyweight exercises such as push-ups, pull-ups, squats, and core exercises.",
+      "img": "https://mrgymqatar.com/wp-content/uploads/2018/01/pack7-e1564581337633.jpg",
+      "price": "$ 150.00",
+      "info": "Eligible for Special Coaching."
+    },
+    {
+      "id": 6,
+      "name": "For Men & Women",
+      "ducation1": "Monday-Friday 1.00-2.00 pm",
+      "ducation2": "Saturday 8.00-12.00 pm",
+      "ducation3": "Sunday Closed",
+      "detailInfo": "This cource is designed keeping on mined of your body shape. This includes activities like running, skipping rope, and high-intensity interval training (HIIT) to improve overall cardiovascular fitness. Strength and Power Training: Boxers focus on building functional strength and explosive power to deliver powerful punches. This involves weightlifting exercises, plyometrics, and bodyweight exercises such as push-ups, pull-ups, squats, and core exercises.",
+      "img": "https://moltom.in/wp-content/uploads/2020/01/Strength-024.png",
+      "price": "$ 100.00",
+      "info": "Complimentary Packages for both Men and Women."
+    }
+  ]

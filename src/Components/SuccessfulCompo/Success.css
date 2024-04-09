@@ -1,0 +1,36 @@
+.success-container{
+    background-color: #31c07e;
+    height: 85vh;
+}
+.text-container{
+    padding-top: 100px;
+}
+
+@keyframes grow{
+    from{
+        font-size: 10px;
+    }
+    to{
+        font-size: 60px;
+    }
+}
+.success-icon{
+    animation-name: grow; 
+    animation-duration: 0.8s;  
+    animation-fill-mode: forwards;
+}
+
+.continue-btn{
+    background: none;
+    color: white;    
+    padding: 10px 15px;
+    border: 1px solid white;    
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.5s;
+}
+.continue-btn:hover{
+    background-color: white;
+    color: #31c07e;  
+    border: none;  
+}

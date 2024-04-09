@@ -1,0 +1,413 @@
+[
+    {
+      "id": 1,
+      "name": "one piece cotton tops",
+      "price": 1690,
+      "oldPrice": 2000,
+      "img": "./product's image/onepiece-1.jpg",
+      "shortInfo": "Structured Fit. Cotton, Single Reyon cotton Top for women.",
+      "type": "womens clothing",
+      "catagory": "summer",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 2,
+      "name": "one piece cotton tops",
+      "price": 1499,
+      "oldPrice": 1800,
+      "img": "./product's image/onepiece-2.jpg",
+      "shortInfo": "Structured Fit. Cotton, Single Reyon cotton Top for women.",
+      "type": "womens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 3,
+      "name": "one piece cotton tops",
+      "price": 1499,
+      "oldPrice": 1800,
+      "img": "./product's image/onepiece-3.jpg",
+      "shortInfo": "Structured Fit. Cotton, Single Reyon cotton Top for women.",
+      "type": "womens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 4,
+      "name": "one piece cotton tops",
+      "price": 1499,
+      "oldPrice": 1800,
+      "img": "./product's image/onepiece-4.jpg",
+      "shortInfo": "Structured Fit. Cotton, Single Reyon cotton Top for women.",
+      "type": "womens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 5,
+      "name": "one piece cotton tops",
+      "price": 1499,
+      "oldPrice": 1800,
+      "img": "./product's image/onepiece-5.jpg",
+      "shortInfo": "Structured Fit. Cotton, Single Reyon cotton Top for women.",
+      "type": "womens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },     
+    {
+      "id": 22,
+      "name": "women's Naira cut",
+      "price": 1350,
+      "oldPrice": 1700,
+      "img": "./product's image/naira-cut-1.jpg",
+      "shortInfo": "Structured Fit. Naira cut for women.",
+      "type": "womens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 23,
+      "name": "women's Naira cut",
+      "price": 1350,
+      "oldPrice": 1700,
+      "img": "./product's image/naira-cut-2.jpg",
+      "shortInfo": "Structured Fit.Naira cut for women.",
+      "type": "womens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 21,
+      "name": "bootic three piece",
+      "price": 1850,
+      "oldPrice": 2200,
+      "img": "./product's image/bootic-1.jpg",
+      "shortInfo": "Structured Fit. bootic three piece for women.",
+      "type": "womens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 24,
+      "name": "redimate bootic",
+      "price": 1450,
+      "oldPrice": 1700,
+      "img": "./product's image/redimate-bootic-1.jpg",
+      "shortInfo": "Structured Fit. Cotton, redimate bootic three piece for women.",
+      "type": "womens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 25,
+      "name": "bootic three piece",
+      "price": 1850,
+      "oldPrice": 2200,
+      "img": "./product's image/cotton-silk-3.jpg",
+      "shortInfo": "Structured Fit. Cotton, silk printed three piece for women.",
+      "type": "womens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    }, 
+    {
+      "id": 26,
+      "name": "bootic three piece",
+      "price": 1550,
+      "oldPrice": 1700,
+      "img": "./product's image/cotton-silk-4.jpg",
+      "shortInfo": "Structured Fit. Cotton, bootic three piece for women.",
+      "type": "womens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 27,
+      "name": "redimate bootic",
+      "price": 1450,
+      "oldPrice": 1700,
+      "img": "./product's image/cotton-silk-5.jpg",
+      "shortInfo": "Structured Fit. Cotton, redimate bootic three piece for women.",
+      "type": "womens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 28,
+      "name": "redimate bootic",
+      "price": 1450,
+      "oldPrice": 1700,
+      "img": "./product's image/redimate-bootic-4.jpg",
+      "shortInfo": "Structured Fit. Cotton, redimate bootic three piece for women.",
+      "type": "womens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 29,
+      "name": "redimate bootic",
+      "price": 1350,
+      "oldPrice": 1600,
+      "img": "./product's image/redimate-bootic-2.jpg",
+      "shortInfo": "Structured Fit. Cotton, Single Reyon cotton redimate bootic three piece for women.",
+      "type": "womens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 30,
+      "name": "redimate bootic",
+      "price": 1350,
+      "oldPrice": 1600,
+      "img": "./product's image/redimate-bootic-3.jpg",
+      "shortInfo": "Structured Fit. Cotton, Single Reyon cotton redimate bootic three piece for women.",
+      "type": "womens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 31,
+      "name": "women's Kameez",
+      "price": 1850,
+      "oldPrice": 2200,
+      "img": "./product's image/kameez-1.jpg",
+      "shortInfo": "Structured Fit. silk printed three piece for women.",
+      "type": "womens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 7,
+      "name": "jacquard panjabi",
+      "price": 1600,
+      "oldPrice": 1850,
+      "img": "./product's image/jacquard-panjabi-1.jpg",
+      "shortInfo": "semi fited cotton panjabi for men.",
+      "type": "mens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 8,
+      "name": "jacquard panjabi",
+      "price": 1600,
+      "oldPrice": 1850,
+      "img": "./product's image/jacquard-panjabi-2.jpg",
+      "shortInfo": "semi fited cotton jacquard panjabi for men.",
+      "type": "mens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 9,
+      "name": "jacquard panjabi",
+      "price": 1600,
+      "oldPrice": 1850,
+      "img": "./product's image/jacquard-panjabi-3.jpg",
+      "shortInfo": "semi fited cotton jacquard panjabi for men.",
+      "type": "mens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 10,
+      "name": "jacquard panjabi",
+      "price": 1600,
+      "oldPrice": 1850,
+      "img": "./product's image/jacquard-panjabi-4.jpg",
+      "shortInfo": "semi fited cotton jacquard panjabi for men.",
+      "type": "mens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 11,
+      "name": "men's cotton panjabi",
+      "price": 1300,
+      "oldPrice": 1550,
+      "img": "./product's image/cotton-panjabi-1.jpg",
+      "shortInfo": "Structured Fit. mens cotton panjabi.",
+      "type": "mens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 12,
+      "name": "men's cotton panjabi",
+      "price": 1300,
+      "oldPrice": 1550,
+      "img": "./product's image/cotton-panjabi-6.jpg",
+      "shortInfo": "Structured Fit. Cotton, mens cotton panjabi.",
+      "type": "mens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 13,
+      "name": "men's cotton panjabi",
+      "price": 1300,
+      "oldPrice": 1550,
+      "img": "./product's image/cotton-panjabi-2.jpg",
+      "shortInfo": "Structured Fit. Cotton, mens cotton panjabi.",
+      "type": "mens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 14,
+      "name": "men's cotton panjabi",
+      "price": 1300,
+      "oldPrice": 1550,
+      "img": "./product's image/cotton-panjabi-4.jpg",
+      "shortInfo": "Structured Fit. Cotton, mens cotton panjabi.",
+      "type": "mens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },  
+    {
+      "id": 39,
+      "name": "panjabi with koti",
+      "price": 1450,
+      "oldPrice": 1650,
+      "img": "./product's image/panjabi-koty-4.jpg",
+      "shortInfo": "Structured Fit. Cotton, mens cotton panjabi with coty.",
+      "type": "mens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 16,
+      "name": "panjabi with koti",
+      "price": 1450,
+      "oldPrice": 1650,
+      "img": "./product's image/panjabi-koty-3.jpg",
+      "shortInfo": "Structured Fit. Cotton, mens cotton panjabi with coty.",
+      "type": "mens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 17,
+      "name": "panjabi with koti",
+      "price": 1450,
+      "oldPrice": 1650,
+      "img": "./product's image/panjabi-koty-1.jpg",
+      "shortInfo": "Structured Fit. Cotton, mens cotton panjabi with coty.",
+      "type": "mens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 18,
+      "name": "panjabi with koti",
+      "price": 1450,
+      "oldPrice": 1650,
+      "img": "./product's image/panjabi-koty-2.jpg",
+      "shortInfo": "Structured Fit. Cotton, mens cotton panjabi with coty.",
+      "type": "mens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 15,
+      "name": "men's cotton panjabi",
+      "price": 1300,
+      "oldPrice": 1550,
+      "img": "./product's image/cotton-panjabi-9.jpg",
+      "shortInfo": "Structured Fit. Cotton, mens cotton panjabi.",
+      "type": "mens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 20,
+      "name": "men's cotton panjabi",
+      "price": 1250,
+      "oldPrice": 1550,
+      "img": "./product's image/cotton-panjabi-10.jpg",
+      "shortInfo": "Structured Fit. Cotton, mens cotton panjabi.",
+      "type": "mens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 19,
+      "name": "men's cotton panjabi",
+      "price": 1250,
+      "oldPrice": 1550,
+      "img": "./product's image/cotton-panjabi-5.jpg",
+      "shortInfo": "Structured Fit. Cotton, mens cotton panjabi.",
+      "type": "mens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },   
+    {
+      "id": 40,
+      "name": "Stripe cotton panjabi",
+      "price": 1450,
+      "oldPrice": 1650,
+      "img": "./product's image/cotton-stripe-panjabi-2.jpg",
+      "shortInfo": "Structured Fit. Cotton, mens cotton panjabi.",
+      "type": "mens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 41,
+      "name": "Stripe cotton panjabi",
+      "price": 1450,
+      "oldPrice": 1650,
+      "img": "./product's image/cotton-stripe-panjabi-1.jpg",
+      "shortInfo": "Structured Fit. Cotton, mens cotton panjabi.",
+      "type": "mens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 42,
+      "name": "Stripe cotton panjabi",
+      "price": 1450,
+      "oldPrice": 1650,
+      "img": "./product's image/cotton-stripe-panjabi-3.jpg",
+      "shortInfo": "Structured Fit. Cotton, mens cotton panjabi.",
+      "type": "mens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 32,
+      "name": "silk printed three piece",
+      "price": 1450,
+      "oldPrice": 1600,
+      "img": "./product's image/silk-printed-1.jpg",
+      "shortInfo": "Structured Fit. silk printed three piece for women.",
+      "type": "womens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 33,
+      "name": "silk printed three piece",
+      "price": 1450,
+      "oldPrice": 1800,
+      "img": "./product's image/silk-printed-2.jpg",
+      "shortInfo": "Structured Fit. silk printed three piece for women.",
+      "type": "womens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 34,
+      "name": "silk printed three piece",
+      "price": 1450,
+      "oldPrice": 1600,
+      "img": "./product's image/silk-printed-3.jpg",
+      "shortInfo": "Structured Fit. silk printed three piece for women.",
+      "type": "womens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 35,
+      "name": "silk printed three piece",
+      "price": 1450,
+      "oldPrice": 1800,
+      "img": "./product's image/silk-printed-4.jpg",
+      "shortInfo": "Structured Fit. silk printed three piece for women.",
+      "type": "womens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    }, 
+    {
+      "id": 36,
+      "name": "cotton silk printed",
+      "price": 1450,
+      "oldPrice": 1600,
+      "img": "./product's image/silk-printed-5.jpg",
+      "shortInfo": "Structured Fit. silk printed three piece for women.",
+      "type": "womens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },
+    {
+      "id": 37,
+      "name": "cotton silk printed",
+      "price": 1450,
+      "oldPrice": 1600,
+      "img": "./product's image/cotton-silk-1.jpg",
+      "shortInfo": "Structured Fit. silk printed three piece for women.",
+      "type": "womens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    },  
+    {
+      "id": 38,
+      "name": "redimate bootic",
+      "price": 1450,
+      "oldPrice": 1700,
+      "img": "./product's image/cotton-silk-2.jpg",
+      "shortInfo": "Structured Fit. Cotton, redimate bootic three piece for women.",
+      "type": "womens clothing",
+      "description": "NB: Depending on your computer or mobile screen resolution, product color may vary slightly."
+    }
+  ]

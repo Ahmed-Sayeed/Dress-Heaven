@@ -1,0 +1,38 @@
+.size-container span {
+    border: 1px solid;
+    padding: 6px;
+    font-size: 19px;
+    margin-left: 2px;
+    font-weight: bold;
+    cursor: pointer;    
+}
+.cart-container input {
+    width: 50px;
+    font-size: 20px;
+    text-align: center;
+}
+.size-style{
+    background-color: white;
+    color: black;  
+    margin-right: 10px;  
+    font-size: 20px;
+    border: 1px solid black;
+}
+.active{
+    background-color: black;
+    color: white;
+}
+.old-price{
+    text-decoration: line-through;
+    color: rgb(128 128 128);
+}
+.add-to-cart-btn{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    transition: 0.3s;
+}
+.add-to-cart-btn:hover{
+    background-color: white;
+    color: black;
+}
